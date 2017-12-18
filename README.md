@@ -4,4 +4,6 @@ The sample of wait for MySQL with CircleCI 2.0.
 
 ## Requirements
 
+- https://github.com/jwilder/dockerize
+    - preinstalled in circleci/* docker image
 - https://github.com/tkuchiki/docker-delayed-start-mysql (https://github.com/tkuchiki/docker-delayed-start-mysql)
