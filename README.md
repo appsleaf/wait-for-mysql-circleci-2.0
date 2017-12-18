@@ -1,6 +1,6 @@
 # wait-for-mysql-circleci-2.0
 
-The sample of wait for MySQL with CircleCi 2.0.
+The sample of wait for MySQL with CircleCI 2.0.
 
 ## Requirements
 
